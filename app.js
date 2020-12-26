@@ -1,1 +1,1 @@
-console.log('Happy new year');
+console.lot('hello world 2");
